@@ -47,15 +47,18 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 **Wine & Deli/Brgr&Beer** (July 2017 - June 2018)    
 *Bar staff*  
+
 **Groupon** (June 2016 - February 2017)   
 *Junior Sales Executive*  
 - Worked with a team dealing with inbound sales. This involved taking calls from businesses inquiring about working with us and logging merchants onto Salesforce
-
 - Structured deals and contracts for new merchants which included sorting pricing structure, margin negotiation and design structure of webpage on website for the deal.
-
 - Responsible for managing merchants that were signed on the Groupon platform, renegotiating previous deals, signing merchants to new contracts and solving any problems incurred by merchants.
-
 - Used Salesforce and Blackbird to manage daily 
+
+**Kings College Hospital (NHS)**	(January 2014 – June 2016)
+-	Worked with a team organizing and managing all Ophthalmology surgeries. This involves arranging appointments and handling all rescheduling.
+-	Communicate with the surgeons and Day Surgery Unit in regards to patients for the day, as well as providing files and information for the surgeons.
+-	Responsible for filing and distribution of notes for appointments and audits in dental institute when working for dental records library
 
 ## Interests
 - Wall climbing
