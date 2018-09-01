@@ -59,7 +59,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Interests
 • Wall climbing
+
 • Tennis
+
 • Football
 
 
