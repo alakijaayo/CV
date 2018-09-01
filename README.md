@@ -45,7 +45,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Wine & Deli/Brgr&Beer** (July 2017 - June 2018)    
+*Bar staff*  
+**Groupon** (June 2016 - February 2017)   
+*Junior Sales Executive*  
