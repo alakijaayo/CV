@@ -49,3 +49,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 *Bar staff*  
 **Groupon** (June 2016 - February 2017)   
 *Junior Sales Executive*  
+•	Worked with a team dealing with inbound sales. This involved taking calls from businesses inquiring about working with us and logging merchants onto Salesforce
+•	Structured deals and contracts for new merchants which included sorting pricing structure, margin negotiation and design structure of webpage on website for the deal.
+•	Responsible for managing merchants that were signed on the Groupon platform, renegotiating previous deals, signing merchants to new contracts and solving any problems incurred by merchants.
+•	Used Salesforce and Blackbird to manage daily 
+
