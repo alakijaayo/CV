@@ -25,23 +25,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (September 2018 - Present)
+#### Makers Academy (September 2018 - November 2018)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+12-week intensive course learning how to become a Junior Developer. Teaching included learning the languages Ruby and JavaScript, along with teaching us the processes of Test Driven Development(TDD), Object-Oriented Design(OOD) and other key values in the coding and developing world.
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript, Swift, React
-- RSpec, Jasmine
+Have since been using the skills that I have been taught to further my development, using it to teach myself new languages such as Swift and learning development tools such as React
 
 #### Manchester Metropolitan University
 
 - BSc Environmental Science
 - 2:2
-
-#### Any other qualifications
 
 ## Experience
 
@@ -53,9 +46,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Worked with a team dealing with inbound sales. This involved taking calls from businesses inquiring about working with us and logging merchants onto Salesforce
 - Structured deals and contracts for new merchants which included sorting pricing structure, margin negotiation and design structure of webpage on website for the deal.
 - Responsible for managing merchants that were signed on the Groupon platform, renegotiating previous deals, signing merchants to new contracts and solving any problems incurred by merchants.
-- Used Salesforce and Blackbird to manage daily 
+- Used Salesforce and Blackbird to manage daily
 
 **Kings College Hospital (NHS)**	(January 2014 – June 2016)
+*Administrator*
 -	Worked with a team organizing and managing all Ophthalmology surgeries. This involves arranging appointments and handling all rescheduling.
 -	Communicate with the surgeons and Day Surgery Unit in regards to patients for the day, as well as providing files and information for the surgeons.
 -	Responsible for filing and distribution of notes for appointments and audits in dental institute when working for dental records library
@@ -65,5 +59,4 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Tennis
 - Football
 - Blogging
-
-
+- Music
