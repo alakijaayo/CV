@@ -33,7 +33,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
+- Ruby, Rails, JavaScript, Swift, React
 - RSpec, Jasmine
 
 #### Manchester Metropolitan University
@@ -64,5 +64,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Wall climbing
 - Tennis
 - Football
+- Blogging
 
 
