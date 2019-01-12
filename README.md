@@ -47,6 +47,9 @@ Have since used the skills that I have been taught to further my development, us
 
 **Brgr&Beer Ltd** (July 2017 - June 2018)    
 *Bar staff*  
+- Entrusted with the handling of the till and cashing up money at end of the day, including late night events.
+- Responsible for maintaining the bar area
+- Successfully trained new members of staff to perform well in all areas of the business.
 
 **Groupon** (June 2016 - February 2017)   
 *Junior Sales Executive*  
