@@ -6,7 +6,7 @@ Degree educated graduate with good communication skills: focused, IT literate an
 
 After completing the 12 week course at Makers Academy, am looking to fully utilise the skills I have learnt on the course and in past job roles to join a team of experienced developers where I can grow as part of a team and develop my skills further. Self-motivated and experienced with time-dependent tasks, data collection and working within a team.
 
-Tech Skills: Ruby, JavaScript, Swift, ReactJS, Rails, NodeJS
+**Tech Skills:** Ruby, JavaScript, Swift, ReactJS, Rails, NodeJS
 
 ## Skills
 
