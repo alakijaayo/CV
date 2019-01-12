@@ -1,6 +1,6 @@
 ## Ayodele Olabode Alakija
 
-[LinkedIn](https://www.linkedin.com/in/ayodele-alakija-78142999/)| [Blog](https://medium.com/@alakijaayo)|
+[LinkedIn](https://www.linkedin.com/in/ayodele-alakija-78142999/) | [Blog](https://medium.com/@alakijaayo) |
 
 Degree educated graduate with good communication skills: focused, IT literate and willing to learn, with a background in sales, marketing, administration and relationship management. Having grown interested in the world of Web and Application development, I embarked on learning and understanding the use of code and the languages used to help build my knowledge with the aim of becoming a Junior Developer.
 
@@ -10,15 +10,15 @@ Tech Skills: Ruby, JavaScript, Swift, ReactJS, Rails, NodeJS
 
 ## Skills
 
-#### This Skill
+#### Communication Skills
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+During my time with Groupon, I spent my time speaking to new prospective clients who were looking to join the platform, as well as speaking to existing clients and maintaining the relationship that I had built with them, dealing with any issues they had with deals on the platform and discussing new deals with them.
 
-- Experience
-- Achievements
-- Evidence
+My time at Kings also allowed me to be in constant communication with patients who were currently waiting for their surgery. It was my duty to keep them informed of when their surgery was booked or cancelled, as well as making sure they attended any appointments before surgery.
 
-#### Another Skill
+My written communication skills have been developed by me blogging about my experince learning code and using it to describe my learning processes in Swift and other languages, allowing me to build a bigger online presence.
+
+#### Team Player
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -26,6 +26,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
+
+#### Negotiation
+
+Once key skill I was taught working with Groupon was learning how to negotiate and build a deal with new and existing clients. This involved building a deal that was suitable not only for the client but for the platform, negotiating price of the voucher, percentage the client would receive from each sale and amount of vouchers that would be available to customers on the platform. 
 
 ## Education
 
