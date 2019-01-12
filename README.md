@@ -1,8 +1,12 @@
 ## Ayodele Olabode Alakija
 
-Degree educated graduate with good communication skills: focused, IT literate and willing to learn, with a background in sales, marketing, administration and relationship management. Having grown interested in the world of Web and Application development, I embarked on learning and understanding the use of code and the languages used to help build my knowledge with the aim of becoming a Junior Developer and wanting to use this to enter the world of Software Development.
+[LinkedIn](https://www.linkedin.com/in/ayodele-alakija-78142999/)| [Blog](https://medium.com/@alakijaayo)|
+
+Degree educated graduate with good communication skills: focused, IT literate and willing to learn, with a background in sales, marketing, administration and relationship management. Having grown interested in the world of Web and Application development, I embarked on learning and understanding the use of code and the languages used to help build my knowledge with the aim of becoming a Junior Developer.
 
 After completing the 12 week course at Makers Academy, am looking to fully utilise the skills I have learnt on the course and in past job roles to join a team of experienced developers where I can grow as part of a team and develop my skills further. Self-motivated and experienced with time-dependent tasks, data collection and working within a team.
+
+Tech Skills: Ruby, JavaScript, Swift, ReactJS, Rails, NodeJS
 
 ## Skills
 
@@ -36,6 +40,8 @@ Have since been using the skills that I have been taught to further my developme
 - BSc Environmental Science
 - 2:2
 
+3 Year Degree Course at Manchester Metropolitan University. Final Year Modules included Aviation and its Environmental Impact, Global Environmental Change and Ecosystems, Impacts and Models of Climate Change and Tropical Land Use and Conservation
+
 ## Experience
 
 **Wine & Deli/Brgr&Beer** (July 2017 - June 2018)    
@@ -55,7 +61,7 @@ Have since been using the skills that I have been taught to further my developme
 -	Responsible for filing and distribution of notes for appointments and audits in dental institute when working for dental records library
 
 ## Interests
-- Wall climbing
+- Wall climbing/Bouldering
 - Tennis
 - Football
 - Blogging
