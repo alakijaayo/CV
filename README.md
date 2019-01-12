@@ -20,24 +20,21 @@ My written communication skills have been developed by me blogging about my expe
 
 #### Team Player
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Have worked in a team surrounding at all work places, most notably at Kings where myself and three others handled the diaries and schedule of the Opthamology surgeons, booking in patients as well as rescheduling them if emergencies needed to be booked in.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+At Groupon, worked in a team dealing with enquiries from clients looking to join Groupon and bring them onto the platform. Have also worked in a group on my final [project](https://github.com/alakijaayo/Radioroom), helping to build our project in 10 days by learning new languages and how to test using new frameworks such as Cypress.io
 
 #### Negotiation
 
-Once key skill I was taught working with Groupon was learning how to negotiate and build a deal with new and existing clients. This involved building a deal that was suitable not only for the client but for the platform, negotiating price of the voucher, percentage the client would receive from each sale and amount of vouchers that would be available to customers on the platform. 
+Once key skill I was taught working with Groupon was learning to negotiate and build a deal with new and existing clients. This involved building a deal that was suitable not only for the client but for the platform, negotiating price of the voucher, percentage the client would receive from each sale and amount of vouchers that would be available to customers on the platform.
 
 ## Education
 
 #### Makers Academy (September 2018 - November 2018)
 
-12-week intensive course learning how to become a Junior Developer. Teaching included learning the languages Ruby and JavaScript, along with teaching us the processes of Test Driven Development(TDD), Object-Oriented Design(OOD) and other key values in the coding and developing world.
+12-week intensive course learning how to become a Junior Developer. On the course we were taught the languages Ruby and JavaScript, along with teaching us the processes of Test Driven Development(TDD), Object-Oriented Design(OOD) and other key values in the coding and developing world.
 
-Have since been using the skills that I have been taught to further my development, using it to teach myself new languages such as Swift and learning development tools such as React
+Have since used the skills that I have been taught to further my development, using it to teach myself new languages such as Swift and learning development tools such as React.
 
 #### Manchester Metropolitan University
 
@@ -48,7 +45,7 @@ Have since been using the skills that I have been taught to further my developme
 
 ## Experience
 
-**Wine & Deli/Brgr&Beer** (July 2017 - June 2018)    
+**Brgr&Beer Ltd** (July 2017 - June 2018)    
 *Bar staff*  
 
 **Groupon** (June 2016 - February 2017)   
