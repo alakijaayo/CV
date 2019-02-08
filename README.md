@@ -28,6 +28,11 @@ At Groupon, worked in a team dealing with enquiries from clients looking to join
 
 One key skill I was taught working with Groupon was learning to negotiate and build a deal with new and existing clients. This involved building a deal that was suitable not only for the client but for the platform, negotiating price of the voucher, percentage the client would receive from each sale and amount of vouchers that would be available to customers on the platform.
 
+## Projects
+
+|  Project  |  Description  |
+|  -------  |  -----------  |
+
 ## Education
 
 #### Makers Academy (September 2018 - November 2018)
