@@ -32,6 +32,7 @@ One key skill I was taught working with Groupon was learning to negotiate and bu
 
 |  Project  |  Description  |
 |  -------  |  -----------  |
+|  [Radioroom](https://github.com/alakijaayo/Radioroom)  |  Group final project at Makers Academy. In a team of four, we built a web application based on music. Radioroom is a music media application that allows users to listen, share, sync and discuss music in a collaborative space.
 
 ## Education
 
