@@ -32,7 +32,9 @@ One key skill I was taught working with Groupon was learning to negotiate and bu
 
 |  Project  |  Description  |
 |  -------  |  -----------  |
-|  [Radioroom](https://github.com/alakijaayo/Radioroom)  |  Group final project at Makers Academy. In a team of four, we built a web application based on music. Radioroom is a music media application that allows users to listen, share, sync and discuss music in a collaborative space.
+|  [Radioroom](https://github.com/alakijaayo/Radioroom)  |  Group final project at Makers Academy. In a team of four, we built a web application based on music. Radioroom is a music media application that allows users to listen, share, sync and discuss music in a collaborative space. Technologies used to create this included Node.js, ReactJS, Jest and Enzyme for testing and TravisCI and Heroku for integration and deployment.  |
+|  [Acebook](https://github.com/emmaalbury/Team-Tela)  |  Group Project at Makers Academy in which we were tasked with building a mock version of the social media website Facebook. We were challenged to allow people to sign up, sign in, post comments and like other users comments. Halfway through the project, we were given a new challenge to move our data and application from our deployment on Heroku to a new platform, AWS. Technologies used include Ruby on Rails, TravisCI, AWS and Heroku.  |
+|  [MakersBnB](https://github.com/JonathanAndrews/MakersBnB)  |  First Group Project at Makers Academy. Given the choice between using JavaScript or Ruby, the task of the project was to build a mock version of the webiste AirBnB. Challenges included allowing people to sign up, sign in, list a house up for rent or list multiple spaces as well as allowing other users to book a space. Technologies used include JavaScript, MongoDB and NodeJS.  |
 
 ## Education
 
