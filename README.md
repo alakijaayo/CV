@@ -54,6 +54,12 @@ Have since used the skills that I have been taught to further my development, us
 
 ## Experience
 
+**Deloitte** (June 2019 - Present)
+*Junior Software Developer*
+- First project working on a Public project.
+- Responsible for the building of a Validation Comparison Tool website.
+- Responsible for testing the website and editing/changes that needed to be made.
+
 **Brgr&Beer Ltd** (July 2017 - June 2018)    
 *Bar staff*  
 - Entrusted with the handling of the till and cashing up money at end of the day, including late night events.
