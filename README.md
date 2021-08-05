@@ -32,6 +32,7 @@ One key skill I was taught working with Groupon was learning to negotiate and bu
 
 |  Project  |  Description  |
 |  -------  |  -----------  |
+|  Lloyds of London  |  Current client engagement with Deoitte. Worked as a team of 3 as a Frontend ReactTS developer building a web form allowing users to input their companies/businesses and earnings then calculate theit taxes and insurance when submitted to Lloyds.  |
 |  LEAF-71 & Oak  |  Second client engagement with Deloitte. Developed a front-end web booking application with back-end admin portal using React, AWS and Cypress.  |
 |  Department For Education  |  First client engagement when I joined Deloitte. Developed a front-end financial data capture application and data comparison tool using AngularJS, JavaScript, HTML  |
 |  [Radioroom](https://github.com/alakijaayo/Radioroom)  |  Group final project at Makers Academy. In a team of four, we built a web application based on music. Radioroom is a music media application that allows users to listen, share, sync and discuss music in a collaborative space. Technologies used to create this included Node.js, ReactJS, Jest and Enzyme for testing and TravisCI and Heroku for integration and deployment. [Link to Project](http://makersradioroom.herokuapp.com/)  |
