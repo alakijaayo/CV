@@ -57,7 +57,9 @@ Have since used the skills that I have been taught to further my development, us
 
 ## Experience
 
-**Deloitte** (June 2019 - Present)
+**AND Digital** (October 2021 - Present)
+
+**Deloitte** (June 2019 - September 2021)
 *Junior Software Developer*
 - Worked on numerous projects as a Frontend Developer using ReactJS, ReactTS and AngularJS
 - Responsible for building numerous web pages, including a Tax & Insurance Form, a online booking tool and an Admin tool to manage bookings
