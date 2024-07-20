@@ -2,9 +2,9 @@
 
 [Skills](https://github.com/alakijaayo/CV#skills) | [Projects](https://github.com/alakijaayo/CV#projects) | [Education](https://github.com/alakijaayo/CV#education) | [Experience](https://github.com/alakijaayo/CV#experience) | [Interests](https://github.com/alakijaayo/CV#interests) | [LinkedIn](https://www.linkedin.com/in/ayodele-alakija-78142999/) | [Blog](https://medium.com/@alakijaayo) |
 
-Degree-educated graduate with good communication skills: focused, IT literate and willing to learn, with a background in sales, marketing, administration and relationship management. Having grown interested in Web and Application development, I embarked on learning and understanding the use of code and the languages used to help build my knowledge to become a developer.
+Degree-educated graduate with good communication skills: focused, IT literate and willing to learn, with a background in sales, marketing, administration and relationship management. Having grown interested in Web and Application development, I embarked on learning and understanding the use of code and the languages used to help build my knowledge and become a developer.
 
-After completing the 12 week course at Makers Academy, am looking to fully utilise the skills I have learnt on the course and in past job roles to join a team of experienced developers where I can grow as part of a team and develop my skills further. Self-motivated and experienced with time-dependent tasks, data collection and working within a team.
+I Have over 5 years of work experience in the tech industry, mainly in the consulting space which has allowed me to work in numerous sectors and clients. 
 
 **Tech Skills:** Ruby, JavaScript, Typescript, Swift, ReactJS, ReactTS, Rails, NodeJS, NextTS 
 
@@ -14,19 +14,19 @@ After completing the 12 week course at Makers Academy, am looking to fully utili
 
 During my time with Groupon, I spent my time speaking to new prospective clients who were looking to join the platform, as well as speaking to existing clients and maintaining the relationship that I had built with them, dealing with any issues they had with deals on the platform and discussing new deals with them.
 
-My time at Kings also allowed me to be in constant communication with patients who were currently waiting for their surgery. It was my duty to keep them informed of when their surgery was booked or cancelled, as well as making sure they attended any appointments before surgery.
+My time at King's allowed me to be in constant communication with patients who were currently waiting for their surgery. It was my duty to keep them informed of when their surgery was booked or cancelled, as well as making sure they attended any appointments before surgery.
 
-My written communication skills have been developed by me blogging about my experince learning code and using it to describe my learning processes in Swift and other languages, allowing me to build a bigger online presence.
+My written communication skills have been developed by blogging about my experience learning code and using it to describe my learning processes in Swift and other languages, allowing me to build a bigger online presence.
 
 #### Team Player
 
-Have worked in a team surrounding at all work places, most notably at Kings where myself and three others handled the diaries and schedule of the Ophthalmology surgeons, booking in patients as well as rescheduling them if emergencies needed to be booked in.
+Have worked in a team surrounding at all work places, most notably at Kings where I and three others handled the diaries and schedule of the Ophthalmology surgeons, booking in patients as well as rescheduling them if emergencies needed to be booked in.
 
 At Groupon, worked in a team dealing with enquiries from clients looking to join Groupon and bring them onto the platform. Have also worked in a group on my final [project](https://github.com/alakijaayo/Radioroom), helping to build our project in 10 days by learning new languages and how to test using new frameworks such as Cypress.io
 
 #### Negotiation
 
-One key skill I was taught working with Groupon was learning to negotiate and build a deal with new and existing clients. This involved building a deal that was suitable not only for the client but for the platform, negotiating price of the voucher, percentage the client would receive from each sale and amount of vouchers that would be available to customers on the platform.
+One key skill I was taught working with Groupon was how to negotiate and build a deal with new and existing clients. This involved building a deal suitable not only for the client but for the platform, negotiating price of the voucher, percentage the client would receive from each sale, and the number of vouchers available to customers on the platform.
 
 ## Projects
 
@@ -37,7 +37,7 @@ One key skill I was taught working with Groupon was learning to negotiate and bu
 |  Lloyds of London  |  Current client engagement with Deloitte. Worked as a team of 3 as a Frontend ReactTS developer building a web form allowing users to input their companies/businesses and earnings then calculate their taxes and insurance when submitted to Lloyds.  |
 |  LEAF-71 & Oak  |  Second client engagement with Deloitte. Developed a front-end web booking application with a back-end admin portal using React, AWS and Cypress.  |
 |  Department For Education  |  First client engagement when I joined Deloitte. Developed a front-end financial data capture application and data comparison tool using AngularJS, JavaScript, HTML  |
-|  [Manchester United Quiz](https://github.com/alakijaayo/United-FE)  |  Personal project to update a existing one I made in Ruby and rebuild it using React Typescript, as well as creating a [backend](https://github.com/alakijaayo/United-BE) in Java. The quiz is a multiple-choice application where the user has to answer 25 questions on Manchester United. Users can choose between three difficulty levels: Easy, Medium and Hard. Technologies used include React Typescript, Cypress.io for testing and AWS EC2 and S3 for deployment. [Link to Project](http://unitedfebucket.s3-website.eu-west-2.amazonaws.com/)  |
+|  [Manchester United Quiz](https://github.com/alakijaayo/United-FE)  |  Personal project to update an existing one I made in Ruby and rebuild it using React Typescript, as well as creating a [backend](https://github.com/alakijaayo/United-BE) in Java. The quiz is a multiple-choice application where the user has to answer 25 questions on Manchester United. Users can choose between three difficulty levels: Easy, Medium and Hard. Technologies used include React Typescript, Cypress.io for testing and AWS EC2 and S3 for deployment. [Link to Project](http://unitedfebucket.s3-website.eu-west-2.amazonaws.com/)  |
 |  [Radioroom](https://github.com/alakijaayo/Radioroom)  |  Group final project at Makers Academy. In a team of four, we built a web application based on music. Radioroom is a music media application that allows users to listen, share, sync and discuss music in a collaborative space. Technologies used to create this included Node.js, ReactJS, Jest and Enzyme for testing and TravisCI and Heroku for integration and deployment. [Link to Project](http://makersradioroom.herokuapp.com/)  |
 
 ## Education
