@@ -4,7 +4,7 @@
 
 Degree-educated graduate with good communication skills: focused, IT literate and willing to learn, with a background in sales, marketing, administration and relationship management. Having grown interested in Web and Application development, I embarked on learning and understanding the use of code and the languages used to help build my knowledge and become a developer.
 
-I Have over 5 years of work experience in the tech industry, mainly in the consulting space which has allowed me to work in numerous sectors and clients. I am looking to fully utilise the skills I have learnt in past job roles to join a team of developers where I can not only pass on my wealth of knowledge to the team but where I can grow and develop my skills further. I am self-motivated and experienced with time-dependent tasks, data collection and working within a team.
+I have over 5 years of work experience in the tech industry, mainly in the consulting space which has allowed me to work in numerous sectors and clients. I am looking to fully utilise the skills I have learnt in past job roles to join a team of developers where I can not only pass on my wealth of knowledge to the team but where I can grow and develop my skills further. I am self-motivated and experienced with time-dependent tasks, data collection and working within a team.
 
 **Tech Skills:** Ruby, JavaScript, Typescript, Swift, ReactJS, ReactTS, Rails, NodeJS, NextTS 
 
