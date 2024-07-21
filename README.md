@@ -67,7 +67,7 @@ One key skill I was taught working with Groupon was how to negotiate and build a
 - Worked with a team dealing with inbound sales. This involved taking calls from businesses inquiring about working with us and logging merchants onto Salesforce
 - Structured deals and contracts for new merchants which included sorting pricing structure, margin negotiation and design structure of the webpage on the website for the deal.
 - Responsible for managing merchants that were signed on the Groupon platform, renegotiating previous deals, signing merchants to new contracts and solving any problems incurred by merchants.
-- Used Salesforce and Blackbird to manage daily
+- Used Salesforce and Blackbird to manage daily tasks, objectives and contracts
 
 **Kings College Hospital (NHS)**	(January 2014 – June 2016)
 *Administrator*
