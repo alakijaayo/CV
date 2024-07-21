@@ -1,6 +1,6 @@
 ## Ayodele Olabode Alakija
 
-[Skills](https://github.com/alakijaayo/CV#skills) | [Projects](https://github.com/alakijaayo/CV#projects) | [Education](https://github.com/alakijaayo/CV#education) | [Experience](https://github.com/alakijaayo/CV#experience) | [Interests](https://github.com/alakijaayo/CV#interests) | [LinkedIn](https://www.linkedin.com/in/ayodele-alakija-78142999/) | [Blog](https://medium.com/@alakijaayo) |
+[Skills](https://github.com/alakijaayo/CV#skills) | [Projects](https://github.com/alakijaayo/CV#projects) | [Experience](https://github.com/alakijaayo/CV#experience) | [Education](https://github.com/alakijaayo/CV#education) |[Interests](https://github.com/alakijaayo/CV#interests) | [LinkedIn](https://www.linkedin.com/in/ayodele-alakija-78142999/) | [Blog](https://medium.com/@alakijaayo) |
 
 Degree-educated graduate with good communication skills: focused, IT literate and willing to learn, with a background in sales, marketing, administration and relationship management. Having grown interested in Web and Application development, I embarked on learning and understanding the use of code and the languages used to help build my knowledge and become a developer.
 
