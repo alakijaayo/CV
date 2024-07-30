@@ -1,12 +1,24 @@
 ## Ayodele Olabode Alakija
 
-[Skills](https://github.com/alakijaayo/CV#skills) | [Projects](https://github.com/alakijaayo/CV#projects) | [Experience](https://github.com/alakijaayo/CV#experience) | [Education](https://github.com/alakijaayo/CV#education) |[Interests](https://github.com/alakijaayo/CV#interests) | [LinkedIn](https://www.linkedin.com/in/ayodele-alakija-78142999/) | [Blog](https://medium.com/@alakijaayo) |
+[Projects](https://github.com/alakijaayo/CV#projects) | [Skills](https://github.com/alakijaayo/CV#skills) |  [Experience](https://github.com/alakijaayo/CV#experience) | [Education](https://github.com/alakijaayo/CV#education) |[Interests](https://github.com/alakijaayo/CV#interests) | [LinkedIn](https://www.linkedin.com/in/ayodele-alakija-78142999/) | [Blog](https://medium.com/@alakijaayo) |
 
 Degree-educated graduate with good communication skills: focused, IT literate and willing to learn, with a background in sales, marketing, administration and relationship management. 
 
 I have over 5 years of work experience in the tech industry, mainly in the consulting space which has allowed me to work in numerous sectors and clients. I am looking to fully utilise the skills I have learnt in past job roles to join a team of developers where I can not only pass on my wealth of knowledge to the team but where I can grow and develop my skills further. I am self-motivated and experienced with time-dependent tasks, data collection and working within a team.
 
 **Tech Skills:** Ruby, JavaScript, Typescript, Swift, ReactJS, ReactTS, Rails, NodeJS, NextTS, Contentstack
+
+## Projects
+
+|  Project  |  Description  |
+|  -------  |  -----------  |
+|  Sky  |  Current project whilst at AND Digital. As part of the discovery team, our main task is the building, maintaining and releasing of the main Sky pages which are used to attract new Sky customers. Have worked on such pages as the [homepage](https://www.sky.com/), [sports](https://www.sky.com/tv/sports) and [cinema](https://www.sky.com/tv/cinema). Used a multitude of different applications, including Contentstack as our headless CMS, Concourse, Octopus Deploy and others. The codebase is a mixture of ReactJS and NextTS.  |
+|  [Zillionaires' Club](https://zillionaires.zizzi.co.uk/)  |  [Award-winning](https://bima.co.uk/zillionaires-club-and-digital/) web application designed for the Azzurri company and their restaurant Zizzi. It was aimed at boosting customer engagement and increasing sales in the business. The team worked together to design, build and maintain the application. Was part of the Frontend team that built the customer-facing side of the project, using ReactTS to construct it, as well as playing a key role in configuring the login set-up, including the social media login set-up.  |
+|  Lloyds of London  |  Current client engagement with Deloitte. Worked as a team of 3 as a Frontend ReactTS developer building a web form allowing users to input their companies/businesses and earnings then calculate their taxes and insurance when submitted to Lloyds.  |
+|  LEAF-71 & Oak  |  Second client engagement with Deloitte. Developed a front-end web booking application with a back-end admin portal using React, AWS and Cypress.  |
+|  Department For Education  |  First client engagement when I joined Deloitte. Developed a front-end financial data capture application and data comparison tool using AngularJS, JavaScript, HTML  |
+|  [Manchester United Quiz](https://github.com/alakijaayo/United-FE)  |  Personal project to update an existing one I made in Ruby and rebuild it using React Typescript, as well as creating a [backend](https://github.com/alakijaayo/United-BE) in Java. The quiz is a multiple-choice application where the user has to answer 25 questions on Manchester United. Users can choose between three difficulty levels: Easy, Medium and Hard. Technologies used include React Typescript, Cypress.io for testing and AWS EC2 and S3 for deployment. [Link to Project](http://unitedfebucket.s3-website.eu-west-2.amazonaws.com/)  |
+|  [Radioroom](https://github.com/alakijaayo/Radioroom)  |  Group final project at Makers Academy. In a team of four, we built a web application based on music. Radioroom is a music media application that allows users to listen, share, sync and discuss music in a collaborative space. Technologies used to create this included Node.js, ReactJS, Jest and Enzyme for testing and TravisCI and Heroku for integration and deployment. [Link to Project](http://makersradioroom.herokuapp.com/)  |
 
 ## Skills
 
@@ -29,18 +41,6 @@ At Groupon, worked in a team dealing with enquiries from clients looking to join
 #### Negotiation
 
 One key skill I was taught working with Groupon was how to negotiate and build a deal with new and existing clients. This involved building a deal suitable not only for the client but for the platform, negotiating the price of the voucher, the percentage the client would receive from each sale, and the number of vouchers available to customers on the platform.
-
-## Projects
-
-|  Project  |  Description  |
-|  -------  |  -----------  |
-|  Sky  |  Current project whilst at AND Digital. As part of the discovery team, our main task is the building, maintaining and releasing of the main Sky pages which are used to attract new Sky customers. Have worked on such pages as the [homepage](https://www.sky.com/), [sports](https://www.sky.com/tv/sports) and [cinema](https://www.sky.com/tv/cinema). Used a multitude of different applications, including Contentstack as our headless CMS, Concourse, Octopus Deploy and others. The codebase is a mixture of ReactJS and NextTS.  |
-|  [Zillionaires' Club](https://zillionaires.zizzi.co.uk/)  |  [Award-winning](https://bima.co.uk/zillionaires-club-and-digital/) web application designed for the Azzurri company and their restaurant Zizzi. It was aimed at boosting customer engagement and increasing sales in the business. The team worked together to design, build and maintain the application. Was part of the Frontend team that built the customer-facing side of the project, using ReactTS to construct it, as well as playing a key role in configuring the login set-up, including the social media login set-up.  |
-|  Lloyds of London  |  Current client engagement with Deloitte. Worked as a team of 3 as a Frontend ReactTS developer building a web form allowing users to input their companies/businesses and earnings then calculate their taxes and insurance when submitted to Lloyds.  |
-|  LEAF-71 & Oak  |  Second client engagement with Deloitte. Developed a front-end web booking application with a back-end admin portal using React, AWS and Cypress.  |
-|  Department For Education  |  First client engagement when I joined Deloitte. Developed a front-end financial data capture application and data comparison tool using AngularJS, JavaScript, HTML  |
-|  [Manchester United Quiz](https://github.com/alakijaayo/United-FE)  |  Personal project to update an existing one I made in Ruby and rebuild it using React Typescript, as well as creating a [backend](https://github.com/alakijaayo/United-BE) in Java. The quiz is a multiple-choice application where the user has to answer 25 questions on Manchester United. Users can choose between three difficulty levels: Easy, Medium and Hard. Technologies used include React Typescript, Cypress.io for testing and AWS EC2 and S3 for deployment. [Link to Project](http://unitedfebucket.s3-website.eu-west-2.amazonaws.com/)  |
-|  [Radioroom](https://github.com/alakijaayo/Radioroom)  |  Group final project at Makers Academy. In a team of four, we built a web application based on music. Radioroom is a music media application that allows users to listen, share, sync and discuss music in a collaborative space. Technologies used to create this included Node.js, ReactJS, Jest and Enzyme for testing and TravisCI and Heroku for integration and deployment. [Link to Project](http://makersradioroom.herokuapp.com/)  |
 
 ## Experience
 
